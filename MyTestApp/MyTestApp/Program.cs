@@ -10,7 +10,7 @@ namespace MyTestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version 1.0.0 ");
+            Console.WriteLine("Version 2.0.0 ");
             Console.WriteLine("press any key");
             Console.ReadKey();
         }
